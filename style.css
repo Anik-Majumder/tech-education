@@ -6,3 +6,14 @@
   font-weight: 700;
   font-size: 40px;
 }
+/* banner section */
+
+.banner-text {
+  background-color: rgba(0, 0, 0, 0.527);
+}
+.banner-text h1 {
+  font-size: 3vw;
+}
+.banner-text p {
+  font-size: 1.2vw;
+}
